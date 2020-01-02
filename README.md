@@ -15,4 +15,4 @@
 - [x] Using Typescript in source / testing
 - [x] Developer friendly dev-environment with linting & hot-reload
 - [x] Paraller API unit testing using Jest/Supertest/Chai
-- [x] Using Mongoose / MongoDB as data storage
+- [x] Using Mongoose / MongoDB for data storage
