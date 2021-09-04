@@ -6,7 +6,7 @@
   Node.js + Express.js + Typescript = 💖
 </h4>
 
-<p align="center"><img src="https://img.shields.io/maintenance/yes/2020.svg"><img src="https://img.shields.io/github/package-json/v/gnonce/expressjs-starter.svg?color=blue"> <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
+<p align="center"><img src="https://img.shields.io/maintenance/yes/2021.svg"><img src="https://img.shields.io/github/package-json/v/gnonce/expressjs-starter.svg?color=blue"> <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
 </p>
 
 ## 👩‍💻 Features
@@ -16,13 +16,13 @@
 - [x] Testing using Jest/Supertest
 - [x] Advanced logging using Winston/Morgan
 
-##  🙏 Installation
+## 🙏 Installation
 
 ```bash
 npm install
 ```
 
-##  🏃 Running the app
+## 🏃 Running the app
 
 ```bash
 # development
